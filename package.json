@@ -1,0 +1,14 @@
+{
+  "name": "react-redux-starter",
+  "version": "1.0.0",
+  "description": "starter pack for react with redux",
+  "main": "server.js",
+  "repository": "git@github.com:arnor-ragnarsson/react-redux-starter.git",
+  "author": "AAR",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "webpack": "^3.6.0"
+  }
+}
